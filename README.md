@@ -114,7 +114,7 @@ For each permutation, print the permutation itself followed by the number of com
 
 # How to Run
 
-To run the trigrams.ipynb notebook on a local PC, follow these steps:
+To run the tasks.ipynb notebook on a local PC, follow these steps:
   
 - Clone the Repository:
   Clone the repository containing the notebook to your local machine:

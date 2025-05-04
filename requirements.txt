@@ -1,0 +1,5 @@
+os
+hashlib
+itertools
+matplotlib
+notebook
